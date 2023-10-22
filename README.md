@@ -50,9 +50,9 @@
  
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/aghabalaguluzade/aghabalaguluzade/blob/main/img/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=aghabalaguluzade&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="aghabalaguluzade" />
-    <img heigth="160" width="182" src="https://github.com/aghabalaguluzade/aghabalaguluzade/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
   </a>
 </p>
 
@@ -63,9 +63,9 @@
  
  <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/aghabalaguluzade/aghabalaguluzade/blob/main/img/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aghabalaguluzade&theme=material-palenight&hide_border=false" alt="aghabalaguluzade" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/aghabalaguluzade/aghabalaguluzade/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
   </a>
 </p>
  
@@ -75,15 +75,14 @@
 
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/aghabalaguluzade/aghabalaguluzade/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghabalaguluzade&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="aghabalaguluzade" />
-    <img heigth="160" width="182" src="https://github.com/aghabalaguluzade/aghabalaguluzade/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
   </a>
 </p>
 
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
--->
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghabalaguluzade&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/aghabalaguluzade/github-readme-stats)
 
 
 <br />
