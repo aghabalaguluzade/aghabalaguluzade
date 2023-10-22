@@ -17,9 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://linkedin.com/in/aghabala-guluzade-077031188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aghabala-guluzade-077031188" height="30" width="40" /></a>
 <a href="https://codesandbox.com/aghabalaguluzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aghabalaguluzade" height="30" width="40" /></a>
 <a href="https://medium.com/@aghabala_guluzada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aghabala_guluzada" height="30" width="40" /></a>
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
