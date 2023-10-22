@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aghabala Guluzade</h1>
+#Hi 👋, I'm Aghabala Guluzade
 <h1 align="center">
   <a href="https://github.com/aghabalaguluzade">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Aghabala+Guluzade+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </h1>
 
-<h3 align="center">I'm a web developer with experience in Laravel, VueJS (Nuxt), and Node.js. I'm passionate about building high-quality web applications that solve real-world problems. I have a strong understanding of front-end and back-end technologies, and I'm always looking to learn more. In Laravel, I have experience building real-world projects using its modular packaging system, routing, middleware, and ORM. I'm proficient in writing clean, elegant, and maintainable code, and I'm always looking for ways to optimize the performance of my applications. In VueJS (Nuxt) I'm skilled at building responsive and interactive user interfaces. I have a strong understanding of component-based architecture, state management, and reactive programming. I enjoy working with these frameworks because they allow me to build complex applications with ease. In Node.js, I have experience building server-side applications and RESTful APIs. I'm proficient in using Express.js, MongoDB, and other related technologies. I'm also familiar with the latest trends and best practices in Node.js development. Overall, I'm a highly motivated and dedicated developer who is always looking to take on new challenges and build cutting-edge applications.</h3>
+I'm a web developer with experience in Laravel, VueJS (Nuxt), and Node.js. I'm passionate about building high-quality web applications that solve real-world problems. I have a strong understanding of front-end and back-end technologies, and I'm always looking to learn more. In Laravel, I have experience building real-world projects using its modular packaging system, routing, middleware, and ORM. I'm proficient in writing clean, elegant, and maintainable code, and I'm always looking for ways to optimize the performance of my applications. In VueJS (Nuxt) I'm skilled at building responsive and interactive user interfaces. I have a strong understanding of component-based architecture, state management, and reactive programming. I enjoy working with these frameworks because they allow me to build complex applications with ease. In Node.js, I have experience building server-side applications and RESTful APIs. I'm proficient in using Express.js, MongoDB, and other related technologies. I'm also familiar with the latest trends and best practices in Node.js development. Overall, I'm a highly motivated and dedicated developer who is always looking to take on new challenges and build cutting-edge applications.
 
 ![](https://komarev.com/ghpvc/?username=aghabalaguluzade&color=blue)
 
@@ -23,8 +23,6 @@
 <a href="https://medium.com/@aghabala_guluzada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aghabala_guluzada" height="30" width="40" /></a>
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
 
 # 💻 Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
