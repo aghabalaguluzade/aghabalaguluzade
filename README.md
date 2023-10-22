@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aghabala Guluzade</h1>
 <h1 align="center">
-  <a href="https://github.com/CagatayAkkas">
+  <a href="https://github.com/aghabalaguluzade">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Aghabala+Guluzade+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </h1>
@@ -44,16 +44,59 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!-- <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p> ---!>
+# Github Stats
 
-<!--- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aghabalaguluzade&show_icons=true&locale=en&layout=compact" alt="aghabalaguluzade" /></p>
+ <br />
+ 
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/aghabalaguluzade/aghabalaguluzade/blob/main/img/Bird%20Wing%20Left.png">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=aghabalaguluzade&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="aghabalaguluzade" />
+    <img heigth="160" width="182" src="https://github.com/aghabalaguluzade/aghabalaguluzade/blob/main/img/Bird%20Wing%20Right.png">
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aghabalaguluzade&show_icons=true&locale=en" alt="aghabalaguluzade" /></p>
+  
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aghabalaguluzade&" alt="aghabalaguluzade" /></p>
 
---->
+ 
+ <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/aghabalaguluzade/aghabalaguluzade/blob/main/img/Bird%20Wing%20Left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aghabalaguluzade&theme=material-palenight&hide_border=false" alt="aghabalaguluzade" width="55%" />
+    <img heigth="160" width="182" src="https://github.com/aghabalaguluzade/aghabalaguluzade/blob/main/img/Bird%20Wing%20Right.png">
+  </a>
+</p>
+ 
+
+ 
+ <br />
+
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/aghabalaguluzade/aghabalaguluzade/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghabalaguluzade&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="aghabalaguluzade" />
+    <img heigth="160" width="182" src="https://github.com/aghabalaguluzade/aghabalaguluzade/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
+  </a>
+</p>
+
+ <!--
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
+-->
+
+
+<br />
+
+![](https://github-profile-trophy.vercel.app/?username=aghabalaguluzade&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+
+<br />
+
+
+<br />
+
+ 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aghabalaguluzade/aghabalaguluzade/output/github-contribution-grid-snake-dark.svg">
