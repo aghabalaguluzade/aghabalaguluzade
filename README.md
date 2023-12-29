@@ -5,7 +5,13 @@
  </a>
 </h1>
 
+<!---
+
 ### I'm a web developer with experience in Laravel, VueJS (Nuxt), and Node.js. I'm passionate about building high-quality web applications that solve real-world problems. I have a strong understanding of front-end and back-end technologies, and I'm always looking to learn more. In Laravel, I have experience building real-world projects using its modular packaging system, routing, middleware, and ORM. I'm proficient in writing clean, elegant, and maintainable code, and I'm always looking for ways to optimize the performance of my applications. In VueJS (Nuxt) I'm skilled at building responsive and interactive user interfaces. I have a strong understanding of component-based architecture, state management, and reactive programming. I enjoy working with these frameworks because they allow me to build complex applications with ease. In Node.js, I have experience building server-side applications and RESTful APIs. I'm proficient in using Express.js, MongoDB, and other related technologies. I'm also familiar with the latest trends and best practices in Node.js development. Overall, I'm a highly motivated and dedicated developer who is always looking to take on new challenges and build cutting-edge applications.
+
+--->
+
+### I'm a web developer with experience in Laravel, VueJS (Nuxt). I'm passionate about building high-quality web applications that solve real-world problems. I have a strong understanding of front-end and back-end technologies, and I'm always looking to learn more. In Laravel, I have experience building real-world projects using its modular packaging system, routing, middleware, and ORM. I'm proficient in writing clean, elegant, and maintainable code, and I'm always looking for ways to optimize the performance of my applications. In VueJS (Nuxt) I'm skilled at building responsive and interactive user interfaces. I have a strong understanding of component-based architecture, state management, and reactive programming. Overall, I'm a highly motivated and dedicated developer who is always looking to take on new challenges and build cutting-edge applications.
 
 ![](https://komarev.com/ghpvc/?username=aghabalaguluzade&color=blue)
 
