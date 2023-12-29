@@ -42,6 +42,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<!---
+
 # Github Stats
 
  <br />
@@ -80,6 +82,8 @@
 </p>
 
 <br />
+
+--->
 
 ![](https://github-profile-trophy.vercel.app/?username=aghabalaguluzade&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
